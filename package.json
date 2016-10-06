@@ -1,0 +1,26 @@
+{
+    "name": "justinlettau.com",
+    "description": "Website for JustinLettau.com.",
+    "version": "0.0.2",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/justinlettau/justinlettau.github.io.git"
+    },
+    "devDependencies": {
+        "del": "2.2.2",
+        "gulp": "3.9.1",
+        "gulp-autoprefixer": "3.1.1",
+        "gulp-concat": "2.6.0",
+        "gulp-inject": "4.1.0",
+        "gulp-jshint": "2.0.1",
+        "gulp-sass": "2.3.2",
+        "gulp-uglify": "1.5.4",
+        "gulp-watch": "4.3.9",
+        "run-sequence": "1.2.2",
+        "jshint": "2.9.3"
+    },
+    "dependencies": {
+        "bootstrap": "4.0.0-alpha.4",
+        "font-awesome": "4.6.3"
+    }
+}
