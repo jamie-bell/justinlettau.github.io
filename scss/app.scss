@@ -140,6 +140,7 @@ html, body {
     > a {
         padding: $spacer-y ($spacer-y * 1.5);
         color: $body-color;
+        transition: color 0.3s;
 
         &:hover, &:focus {
             text-decoration: none;
